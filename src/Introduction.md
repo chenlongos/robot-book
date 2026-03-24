@@ -8,6 +8,8 @@
 
 AKA-00 是一个基于辰龙操作系统的，AI教育机器人
 
+相关文档可查看[AKA-00](https://chenlongos.com/AKA-00/01-intro.html)
+
 **[AKA-Sim](AKA-Sim/AKA-Sim.md)**
 
 AKA-Sim 是专为AKA系列机器人提供的模拟仿真平台
